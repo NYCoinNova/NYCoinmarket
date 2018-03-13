@@ -1,5 +1,5 @@
 # NYCoinmarket
-NY Coin Market
+
 ------------------------------------------------Welcome to NY Coin Market---------------------------------------- 
                                                 https://nycoinmarket.com/
                                          A place to trade goods and services for NYC.
